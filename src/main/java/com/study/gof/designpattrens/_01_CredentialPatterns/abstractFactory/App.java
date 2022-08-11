@@ -7,7 +7,7 @@ import com.study.gof.designpattrens._01_CredentialPatterns.abstractFactory.pizza
 public class App {
 
     public static void main(String[] args) {
-        //main 메서드가 Pizza의 자식인 Sauce와 Topping에 대한 정보를 몰라도 Pizza를 생성할 수 있다.
+        //main 메서드가 Pizza의 자식인 Sauce와 Topping이 어떤 클래스를 사용하는지에 대한 정보를 몰라도 Pizza를 생성할 수 있다.
         CheesePizzaFactory cheesePizzaFactory = new CheesePizzaFactory();
         PineapplePizzaFactory pineapplePizzaFactory = new PineapplePizzaFactory();
 
