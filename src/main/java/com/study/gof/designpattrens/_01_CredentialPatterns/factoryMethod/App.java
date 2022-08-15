@@ -1,7 +1,7 @@
-package com.study.gof.designpattrens._01_CredentialPatterns.factoryMethod;
+package com.study.gof.designpattrens._01_CredentialPatterns.FactoryMethod;
 
-import com.study.gof.designpattrens._01_CredentialPatterns.factoryMethod.pizza.Pizza;
-import com.study.gof.designpattrens._01_CredentialPatterns.factoryMethod.pizza.PizzaType;
+import com.study.gof.designpattrens._01_CredentialPatterns.FactoryMethod.pizza.Pizza;
+import com.study.gof.designpattrens._01_CredentialPatterns.FactoryMethod.pizza.PizzaType;
 
 public class App {
 

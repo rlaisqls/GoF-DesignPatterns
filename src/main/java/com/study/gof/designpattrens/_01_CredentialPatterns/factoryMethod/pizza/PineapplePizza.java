@@ -1,4 +1,4 @@
-package com.study.gof.designpattrens._01_CredentialPatterns.factoryMethod.pizza;
+package com.study.gof.designpattrens._01_CredentialPatterns.FactoryMethod.pizza;
 
 
 public class PineapplePizza extends Pizza {

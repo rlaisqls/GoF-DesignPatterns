@@ -1,9 +1,9 @@
-package com.study.gof.designpattrens._01_CredentialPatterns.factoryMethod;
+package com.study.gof.designpattrens._01_CredentialPatterns.FactoryMethod;
 
-import com.study.gof.designpattrens._01_CredentialPatterns.factoryMethod.pizza.CheesePizza;
-import com.study.gof.designpattrens._01_CredentialPatterns.factoryMethod.pizza.PineapplePizza;
-import com.study.gof.designpattrens._01_CredentialPatterns.factoryMethod.pizza.Pizza;
-import com.study.gof.designpattrens._01_CredentialPatterns.factoryMethod.pizza.PizzaType;
+import com.study.gof.designpattrens._01_CredentialPatterns.FactoryMethod.pizza.CheesePizza;
+import com.study.gof.designpattrens._01_CredentialPatterns.FactoryMethod.pizza.PineapplePizza;
+import com.study.gof.designpattrens._01_CredentialPatterns.FactoryMethod.pizza.Pizza;
+import com.study.gof.designpattrens._01_CredentialPatterns.FactoryMethod.pizza.PizzaType;
 import lombok.NoArgsConstructor;
 
 @NoArgsConstructor

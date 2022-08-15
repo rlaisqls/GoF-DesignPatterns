@@ -1,6 +1,5 @@
-package com.study.gof.designpattrens._01_CredentialPatterns.factoryMethod.pizza;
+package com.study.gof.designpattrens._01_CredentialPatterns.FactoryMethod.pizza;
 
-import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
