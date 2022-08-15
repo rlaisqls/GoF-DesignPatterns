@@ -1,4 +1,4 @@
-package com.study.gof.designpattrens._01_CredentialPatterns.prototype;
+package com.study.gof.designpattrens._01_CredentialPatterns.Prototype;
 
 public class App {
     public static void main(String[] args) {
