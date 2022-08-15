@@ -1,6 +1,6 @@
-package com.study.gof.designpattrens.chainOfResponsibility;
+package com.study.gof.designpattrens._03_BehavioralPattern.chainOfResponsibility;
 
-import com.study.gof.designpattrens.chainOfResponsibility.handler.RequestHandler;
+import com.study.gof.designpattrens._03_BehavioralPattern.chainOfResponsibility.handler.RequestHandler;
 import lombok.RequiredArgsConstructor;
 
 @RequiredArgsConstructor
