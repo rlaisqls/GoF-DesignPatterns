@@ -1,6 +1,6 @@
-package com.study.gof.designpattrens._01_CredentialPatterns.abstractFactory.factory;
+package com.study.gof.designpattrens._01_CredentialPatterns.AbstractFactory.factory;
 
-import com.study.gof.designpattrens._01_CredentialPatterns.abstractFactory.pizza.Pizza;
+import com.study.gof.designpattrens._01_CredentialPatterns.AbstractFactory.pizza.Pizza;
 
 public interface PizzaFactory {
 

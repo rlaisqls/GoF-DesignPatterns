@@ -1,4 +1,4 @@
-package com.study.gof.designpattrens._01_CredentialPatterns.abstractFactory.pizza.Topping;
+package com.study.gof.designpattrens._01_CredentialPatterns.AbstractFactory.pizza.Topping;
 
 import lombok.NoArgsConstructor;
 

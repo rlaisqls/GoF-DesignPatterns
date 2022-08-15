@@ -1,9 +1,9 @@
-package com.study.gof.designpattrens._01_CredentialPatterns.abstractFactory.factory;
+package com.study.gof.designpattrens._01_CredentialPatterns.AbstractFactory.factory;
 
-import com.study.gof.designpattrens._01_CredentialPatterns.abstractFactory.pizza.Sauce.CheeseSauce;
-import com.study.gof.designpattrens._01_CredentialPatterns.abstractFactory.pizza.Sauce.Sauce;
-import com.study.gof.designpattrens._01_CredentialPatterns.abstractFactory.pizza.Topping.CheeseTopping;
-import com.study.gof.designpattrens._01_CredentialPatterns.abstractFactory.pizza.Topping.Topping;
+import com.study.gof.designpattrens._01_CredentialPatterns.AbstractFactory.pizza.Sauce.CheeseSauce;
+import com.study.gof.designpattrens._01_CredentialPatterns.AbstractFactory.pizza.Sauce.Sauce;
+import com.study.gof.designpattrens._01_CredentialPatterns.AbstractFactory.pizza.Topping.CheeseTopping;
+import com.study.gof.designpattrens._01_CredentialPatterns.AbstractFactory.pizza.Topping.Topping;
 
 public class CheesePizzaIngredientFactory implements PizzaIngredientFactory {
 

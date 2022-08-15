@@ -1,8 +1,8 @@
-package com.study.gof.designpattrens._01_CredentialPatterns.abstractFactory;
+package com.study.gof.designpattrens._01_CredentialPatterns.AbstractFactory;
 
-import com.study.gof.designpattrens._01_CredentialPatterns.abstractFactory.factory.CheesePizzaFactory;
-import com.study.gof.designpattrens._01_CredentialPatterns.abstractFactory.factory.PineapplePizzaFactory;
-import com.study.gof.designpattrens._01_CredentialPatterns.abstractFactory.pizza.Pizza;
+import com.study.gof.designpattrens._01_CredentialPatterns.AbstractFactory.factory.CheesePizzaFactory;
+import com.study.gof.designpattrens._01_CredentialPatterns.AbstractFactory.factory.PineapplePizzaFactory;
+import com.study.gof.designpattrens._01_CredentialPatterns.AbstractFactory.pizza.Pizza;
 
 public class App {
 
