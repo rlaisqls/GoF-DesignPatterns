@@ -1,4 +1,4 @@
-package com.study.gof.designpattrens._02_StructuralPatterns.composite;
+package com.study.gof.designpattrens._02_StructuralPatterns.Composite;
 
 public class App {
 

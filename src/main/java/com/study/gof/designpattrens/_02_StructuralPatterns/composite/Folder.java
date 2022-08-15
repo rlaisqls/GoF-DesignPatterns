@@ -1,6 +1,4 @@
-package com.study.gof.designpattrens._02_StructuralPatterns.composite;
-
-import lombok.ToString;
+package com.study.gof.designpattrens._02_StructuralPatterns.Composite;
 
 import java.util.Arrays;
 import java.util.List;

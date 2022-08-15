@@ -1,6 +1,4 @@
-package com.study.gof.designpattrens._02_StructuralPatterns.composite;
-
-import java.util.List;
+package com.study.gof.designpattrens._02_StructuralPatterns.Composite;
 
 
 public interface Composite {

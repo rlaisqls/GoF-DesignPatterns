@@ -1,8 +1,4 @@
-package com.study.gof.designpattrens._02_StructuralPatterns.composite;
-
-import lombok.ToString;
-
-import java.util.List;
+package com.study.gof.designpattrens._02_StructuralPatterns.Composite;
 
 public class File implements Composite{
 
