@@ -1,10 +1,10 @@
-package com.study.gof.designpattrens._02_StructuralPatterns.bridge;
+package com.study.gof.designpattrens._02_StructuralPatterns.Bridge;
 
-import com.study.gof.designpattrens._02_StructuralPatterns.bridge.pizza.CheesePizza;
-import com.study.gof.designpattrens._02_StructuralPatterns.bridge.pizza.PineapplePizza;
-import com.study.gof.designpattrens._02_StructuralPatterns.bridge.pizza.Pizza;
-import com.study.gof.designpattrens._02_StructuralPatterns.bridge.recipe.DeliciousRecipe;
-import com.study.gof.designpattrens._02_StructuralPatterns.bridge.recipe.NormalRecipe;
+import com.study.gof.designpattrens._02_StructuralPatterns.Bridge.pizza.CheesePizza;
+import com.study.gof.designpattrens._02_StructuralPatterns.Bridge.pizza.PineapplePizza;
+import com.study.gof.designpattrens._02_StructuralPatterns.Bridge.pizza.Pizza;
+import com.study.gof.designpattrens._02_StructuralPatterns.Bridge.recipe.DeliciousRecipe;
+import com.study.gof.designpattrens._02_StructuralPatterns.Bridge.recipe.NormalRecipe;
 
 public class App {
 

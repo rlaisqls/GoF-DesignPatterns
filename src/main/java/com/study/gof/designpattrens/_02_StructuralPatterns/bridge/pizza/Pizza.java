@@ -1,6 +1,6 @@
-package com.study.gof.designpattrens._02_StructuralPatterns.bridge.pizza;
+package com.study.gof.designpattrens._02_StructuralPatterns.Bridge.pizza;
 
-import com.study.gof.designpattrens._02_StructuralPatterns.bridge.recipe.Recipe;
+import com.study.gof.designpattrens._02_StructuralPatterns.Bridge.recipe.Recipe;
 import lombok.AllArgsConstructor;
 
 @AllArgsConstructor
