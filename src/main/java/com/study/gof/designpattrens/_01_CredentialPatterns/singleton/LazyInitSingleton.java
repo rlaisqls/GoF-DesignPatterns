@@ -1,4 +1,4 @@
-package com.study.gof.designpattrens._01_CredentialPatterns.singleton;
+package com.study.gof.designpattrens._01_CredentialPatterns.Singleton;
 
 public class LazyInitSingleton {
 
