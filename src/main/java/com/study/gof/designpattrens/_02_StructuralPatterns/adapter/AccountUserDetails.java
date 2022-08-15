@@ -1,6 +1,6 @@
-package com.study.gof.designpattrens._02_StructuralPatterns.adapter;
+package com.study.gof.designpattrens._02_StructuralPatterns.Adapter;
 
-import com.study.gof.designpattrens._02_StructuralPatterns.adapter.security.UserDetails;
+import com.study.gof.designpattrens._02_StructuralPatterns.Adapter.security.UserDetails;
 import lombok.AllArgsConstructor;
 
 @AllArgsConstructor

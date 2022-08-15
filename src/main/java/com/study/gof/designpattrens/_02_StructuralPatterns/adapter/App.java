@@ -1,7 +1,7 @@
-package com.study.gof.designpattrens._02_StructuralPatterns.adapter;
+package com.study.gof.designpattrens._02_StructuralPatterns.Adapter;
 
-import com.study.gof.designpattrens._02_StructuralPatterns.adapter.security.LoginHandler;
-import com.study.gof.designpattrens._02_StructuralPatterns.adapter.security.UserDetailsService;
+import com.study.gof.designpattrens._02_StructuralPatterns.Adapter.security.LoginHandler;
+import com.study.gof.designpattrens._02_StructuralPatterns.Adapter.security.UserDetailsService;
 
 public class App {
 

@@ -1,4 +1,4 @@
-package com.study.gof.designpattrens._02_StructuralPatterns.adapter;
+package com.study.gof.designpattrens._02_StructuralPatterns.Adapter;
 
 import lombok.Data;
 
