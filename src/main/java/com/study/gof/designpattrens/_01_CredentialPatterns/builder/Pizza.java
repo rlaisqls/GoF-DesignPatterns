@@ -1,6 +1,5 @@
-package com.study.gof.designpattrens._01_CredentialPatterns.builder;
+package com.study.gof.designpattrens._01_CredentialPatterns.Builder;
 
-import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;
 

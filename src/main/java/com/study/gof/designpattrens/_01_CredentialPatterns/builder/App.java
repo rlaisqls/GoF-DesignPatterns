@@ -1,4 +1,4 @@
-package com.study.gof.designpattrens._01_CredentialPatterns.builder;
+package com.study.gof.designpattrens._01_CredentialPatterns.Builder;
 
 public class App {
 
