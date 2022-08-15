@@ -1,8 +1,8 @@
-package com.study.gof.designpattrens._03_BehavioralPattern.chainOfResponsibility.handler;
+package com.study.gof.designpattrens.chainOfResponsibility.handler;
 
-import com.study.gof.designpattrens._03_BehavioralPattern.chainOfResponsibility.Request;
+import com.study.gof.designpattrens.chainOfResponsibility.Request;
 
-public class DoWorkRequestHandler extends RequestHandler{
+public class DoWorkRequestHandler extends RequestHandler {
 
     public DoWorkRequestHandler(RequestHandler nextHandler) {
         super(nextHandler);
